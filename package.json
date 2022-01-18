@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Server",
+  "main": "main_html.js",
+  "scripts": {
+    "start": "node main_html.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annabelle-whipps/EnterpriseWebSystems.git"
+  },
+  "author": "Annabelle Whipps",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annabelle-whipps/EnterpriseWebSystems/issues"
+  },
+  "homepage": "https://github.com/annabelle-whipps/EnterpriseWebSystems#readme"
+}
